@@ -4,9 +4,9 @@ Web Scraping and Data Analysis of Falcon 9 Launch Records
 This project uses Python to webscrape the launch records from the Wikipedia page "List of Falcon 9 and Falcon Heavy launches". The launch records are then saved as a Pandas DataFrame and exported to a CSV file. The CSV file can be used for further analysis or visualization.
 
 ## Requirements
-Python 3
-BeautifulSoup
-Pandas
+Python 3 \
+BeautifulSoup \
+Pandas\
 Jupyter Notebook
 ## Instructions
 Clone the repository to your local machine.
@@ -21,4 +21,4 @@ Plot the number of Falcon 9 launches over time.
 Analyze the success rate of Falcon 9 launches.
 Compare the performance of Falcon 9 launches to other launch vehicles.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0. 
